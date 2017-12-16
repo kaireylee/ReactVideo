@@ -4,4 +4,4 @@ const VideoListItem = props => {
   return <li>Video</li>;
 };
 
-return VideoListItem;
+export default VideoListItem;
